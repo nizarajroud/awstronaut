@@ -353,6 +353,19 @@
     "linkedin": "allenchan",
     "website": "https://aidr.dev",
     "avatar": "/avatars/allen-r-chan.png"
+  },
+   {
+    "name": "Nizar Ajroud",
+    "github": "nizarajroud",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Montreal",
+    "country": "Canada",
+    "date": "2025-05-16",
+    "linkedin": "nizarajroud",
+    "avatar": "/avatars/nizarajroud.jpg",
+    "bio": "12x AWS Certified :: Follow me on LinkedIn to know more 😄"
   }
 
 ]
